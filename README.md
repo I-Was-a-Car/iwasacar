@@ -1,5 +1,11 @@
 # I Was a Car
 
+## Video
+
+[youtube](https://youtu.be/qkgarYCGkvg)
+
+## Presentation
+
 ![outline1](./outline/‎outline.‎001.jpeg)
 ![outline2](./outline/‎outline.‎002.jpeg)
 ![outline3](./outline/‎outline.‎003.jpeg)
@@ -46,7 +52,6 @@
 ![outline44](./outline/‎outline.‎044.jpeg)
 ![outline45](./outline/‎outline.‎045.jpeg)
 ![outline46](./outline/‎outline.‎046.jpeg)
-![outline47](./outline/‎outline.‎047.jpeg)
 ![outline48](./outline/‎outline.‎048.jpeg)
 ![outline49](./outline/‎outline.‎049.jpeg)
 ![outline50](./outline/‎outline.‎050.jpeg)
