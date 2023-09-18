@@ -2,7 +2,7 @@
 
 ## Video
 
-[youtube](https://youtu.be/qkgarYCGkvg)
+[Youtube](https://youtu.be/qkgarYCGkvg)
 
 ## Presentation
 
