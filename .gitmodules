@@ -1,0 +1,9 @@
+[submodule "i-was-a-car-front"]
+	path = i-was-a-car-front
+	url = https://github.com/woorifisa-projects/i-was-a-car-front.git
+[submodule "i-was-a-car-back"]
+	path = i-was-a-car-back
+	url = https://github.com/woorifisa-projects/i-was-a-car-back.git
+[submodule "i-was-a-car-etc"]
+	path = i-was-a-car-etc
+	url = https://github.com/woorifisa-projects/i-was-a-car-etc.git
