@@ -2,7 +2,7 @@
 
 ## URL
 
-[iwasacar](https://www.iwasacar.xyz)
+[www.iwasacar.xyz](https://www.iwasacar.xyz)
 
 ## Video
 
